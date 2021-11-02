@@ -11,6 +11,7 @@ The tech stack is:
 - BEM methodology
 - JavaScript
 - React
+- Redux
 
 #### Author
 
