@@ -1,6 +1,6 @@
 # Calendar_Project
 
-**[Site link](https://buhaienko-kate.github.io/TODO_Project/)**
+**[Site link](https://jovial-wright-f183b4.netlify.app)**
 
 The tech stack is:
 
