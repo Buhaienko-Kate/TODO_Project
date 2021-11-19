@@ -1,4 +1,4 @@
-# Calendar_Project
+# TODO_Project
 
 **[Site link](https://jovial-wright-f183b4.netlify.app)**
 
@@ -17,4 +17,4 @@ The tech stack is:
 
 - ##### Buhaienko-Kate
 
-# Calendar_Project
+# TODO_Project
